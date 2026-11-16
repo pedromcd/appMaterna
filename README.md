@@ -1,3 +1,5 @@
+[English](README.en.md) | **Português**
+
 # APP Materna
 
 Aplicativo informativo sobre maternidade, gestação, saúde e vida.
@@ -7,5 +9,5 @@ Aplicativo informativo sobre maternidade, gestação, saúde e vida.
 Pedro Marques Correa Domingues
 
 <div align="left">
-<img src="https://github.com/pedromcd/appMaterna/assets/134101420/5dcf0f0a-3455-4ca7-87c2-e067ea879428" alt="Pedro Marques Correa Domingues width="350px"/>
+<img src="https://github.com/pedromcd/appMaterna/assets/134101420/5dcf0f0a-3455-4ca7-87c2-e067ea879428" alt="Pedro Marques Correa Domingues" width="350px"/>
 </div>
